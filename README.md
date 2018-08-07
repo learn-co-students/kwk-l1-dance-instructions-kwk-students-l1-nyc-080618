@@ -134,7 +134,7 @@ all the steps out individually, we've packaged them nicely into methods.
 
 
 1. Write a method for each section of the dance in `dance_instructions.rb`. This
-method should `puts` out strings advising the user what to do for that
+method should 'puts' out strings advising the user what to do for that
 particular element of the dance.
 
 2. Then, call the methods at the end of `dance_instructions.rb`, ensuring they are
